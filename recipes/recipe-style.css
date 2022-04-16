@@ -1,0 +1,53 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+}
+
+body{
+    background-color: rgb(240, 226, 205);
+}
+
+h1,
+h3{
+    background-color: red;
+    color:yellow;
+    
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+h3{
+    font-size: 30px;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 500px;
+    height:auto;
+}
+
+a{
+    background-color: rgb(243, 250, 215);
+    font-size: 30px;
+    
+}
+a:link{
+    text-decoration: none;
+    color:black;
+}
+
+a:visited{
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+    text-decoration: none;
+    color:white;
+    font-weight:bold;
+    background-color: black;
+}
